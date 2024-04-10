@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elif Akata</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Elif Akata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dataset Title</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains things.</description>
+    </item>
+    
+    <item>
+      <title>Course Title 1</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This graduate course presents things.</description>
+    </item>
+    
+    <item>
+      <title>Course Title 2</title>
+      <link>http://localhost:1313/courses/course2/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course2/</guid>
+      <description>This undergraduate course presents many new things.</description>
+    </item>
+    
+    
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/location/</guid>
+      <description>Mailing and office addresses at the University of Place.</description>
+    </item>
+    
+    <item>
+      <title>Playing repeated games with Large Language Models</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Abstract Large Language Models (LLMs) are transforming society and permeating into diverse applications. As a result, LLMs will frequently interact with us and other agents. It is, therefore, of great societal value to understand how LLMs behave in interactive social settings. Here, we propose to use behavioral game theory to study LLM&amp;rsquo;s cooperation and coordination behavior. To do so, we let different LLMs (GPT-3, GPT-3.5, and GPT-4) play finitely repeated games with each other and with other, human-like strategies.</description>
+    </item>
+    
+    <item>
+      <title>Visual cognition in multimodal large language models</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>Abstract A chief goal of artificial intelligence is to build machines that think like people. Yet it has been argued that deep neural network architectures fail to accomplish this. Researchers have asserted these models&amp;rsquo; limitations in the domains of causal reasoning, intuitive physics, and intuitive psychology. Yet recent advancements, namely the rise of large language models, particularly those designed for visual processing, have rekindled interest in the potential to emulate human-like cognitive abilities.</description>
+    </item>
+    
+  </channel>
+</rss>

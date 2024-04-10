@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papers on Elif Akata</title>
+    <link>http://localhost:1313/papers/</link>
+    <description>Recent content in Papers on Elif Akata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playing repeated games with Large Language Models</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Abstract Large Language Models (LLMs) are transforming society and permeating into diverse applications. As a result, LLMs will frequently interact with us and other agents. It is, therefore, of great societal value to understand how LLMs behave in interactive social settings. Here, we propose to use behavioral game theory to study LLM&amp;rsquo;s cooperation and coordination behavior. To do so, we let different LLMs (GPT-3, GPT-3.5, and GPT-4) play finitely repeated games with each other and with other, human-like strategies.</description>
+    </item>
+    
+    <item>
+      <title>Visual cognition in multimodal large language models</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>Abstract A chief goal of artificial intelligence is to build machines that think like people. Yet it has been argued that deep neural network architectures fail to accomplish this. Researchers have asserted these models&amp;rsquo; limitations in the domains of causal reasoning, intuitive physics, and intuitive psychology. Yet recent advancements, namely the rise of large language models, particularly those designed for visual processing, have rekindled interest in the potential to emulate human-like cognitive abilities.</description>
+    </item>
+    
+  </channel>
+</rss>

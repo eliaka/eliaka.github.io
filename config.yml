@@ -1,0 +1,108 @@
+baseURL: "https://eliaka.github.io/" 
+title: Elif Akata
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 1
+        # - name: Courses
+        #   url: courses/
+        #   weight: 2
+        # - name: Data
+        #   url: data/
+        #   weight: 3 
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
+
+params:
+    description: "I am a second year PhD student in machine learning and cognitive science, currently researching the social behavior of large language models at Helmholtz Munich, supervised by Dr. Eric Schulz and Prof. Dr. Matthias Bethge."
+    author: Name
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Elif Akata
+          subtitle: "I am a second year PhD student in machine learning and cognitive science, currently researching the social behavior of large language models at Helmholtz Munich, supervised by Dr. Eric Schulz and Prof. Dr. Matthias Bethge."
+          imageUrl: "picture.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Prof. Name
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: CV
+              url: cv.pdf
+            # - name: Data
+            #   url: data/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+    socialIcons:
+        # - name: CV
+        #   url: cv.pdf
+        - name: Email
+          url: mailto:elif.akata@helmholtz-munich.de
+        - name: Location
+          url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=T__E730AAAAJ&hl=en&oi=ao
+        # - name: YouTube
+        #   url: https://www.youtube.com/
+        - name: GitHub
+          url: https://github.com/eliaka
+        - name: Twitter
+          url: https://twitter.com/elifakata
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Elif Akata"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
