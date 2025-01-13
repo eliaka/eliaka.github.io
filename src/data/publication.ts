@@ -30,7 +30,7 @@ export const publicationData: Publication[] = [
   // },
   {
     year: "2023",
-    conference: "arXiv",
+    conference: "Nature Human Behaviour (Under review)",
     title: "Playing repeated games with large language models",
     authors: "Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz",
     paperUrl: "https://arxiv.org/abs/2305.16867",
@@ -39,7 +39,7 @@ export const publicationData: Publication[] = [
   },
   {
     year: "2023",
-    conference: "arXiv",
+    conference: "Nature Machine Intelligence (Accepted)",
     title: "Visual cognition in multimodal large language models",
     authors: "Luca M. Schulze Buschoff*, Elif Akata*, Matthias Bethge, Eric Schulz",
     paperUrl: "https://arxiv.org/abs/2311.16093",
