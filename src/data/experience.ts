@@ -10,7 +10,7 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Oct 2021–Sep 2022",
+    date: "Oct 2021–-Sep 2022",
     title: "Research Assistant",
     company: "Tübingen AI Center",
     description:
@@ -19,7 +19,7 @@ export const experienceData: Experience[] = [
     // companyUrl: "https://deepmind.com",
   },
   {
-    date: "Sep 2020–Nov 2020",
+    date: "Sep 2020–-Nov 2020",
     title: "Research Assistant",
     company: "Max Planck Institute for Intelligent Systems",
     description:
@@ -28,7 +28,7 @@ export const experienceData: Experience[] = [
     // companyUrl: "https://google.com",
   },
   {
-    date: "May 2017 – Apr 2019",
+    date: "May 2017–-Apr 2019",
     title: "Student Research Assistant",
     company: "Max Planck Institute for Software Systems",
     description:
