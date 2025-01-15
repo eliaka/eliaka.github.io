@@ -29,8 +29,8 @@ export const publicationData: Publication[] = [
   //   // imageUrl: "/images/publication-image.jpg"
   // },
   {
-    year: "2023",
-    conference: "Nature Human Behaviour (Under review)",
+    year: "2023 (Under review)",
+    conference: "Nature Human Behaviour",
     title: "Playing repeated games with large language models",
     authors: "Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz",
     paperUrl: "https://arxiv.org/abs/2305.16867",
@@ -38,11 +38,11 @@ export const publicationData: Publication[] = [
     imageUrl: "/repeatedgames_mini.png"
   },
   {
-    year: "2023",
-    conference: "Nature Machine Intelligence (Accepted)",
+    year: "2025",
+    conference: "Nature Machine Intelligence",
     title: "Visual cognition in multimodal large language models",
     authors: "Luca M. Schulze Buschoff*, Elif Akata*, Matthias Bethge, Eric Schulz",
-    paperUrl: "https://arxiv.org/abs/2311.16093",
+    paperUrl: "https://www.nature.com/articles/s42256-024-00963-y",
     codeUrl: "https://github.com/lsbuschoff/multimodal",
     imageUrl: "/visualcognition_mini.png"
   },
