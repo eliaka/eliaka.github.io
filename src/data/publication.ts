@@ -38,7 +38,7 @@ export const publicationData: Publication[] = [
     imageUrl: "/visualcognition_mini.png"
   },
   {
-    year: "2023",
+    year: "2023 (Under review)",
     conference: "arXiv",
     title: "Playing repeated games with large language models",
     authors: "Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz",
@@ -47,7 +47,7 @@ export const publicationData: Publication[] = [
     imageUrl: "/repeatedgames_mini.png"
   },
   {
-    year: "2024",
+    year: "2024 (Under review)",
     conference: "arXiv",
     title: "Centaur: a foundation model of human cognition",
     authors: "Marcel Binz, Elif Akata, Matthias Bethge, Franziska Brändle, Fred Callaway, Julian Coda-Forno, Peter Dayan, Can Demircan, Maria K. Eckstein, Noémi Éltető et al.",
