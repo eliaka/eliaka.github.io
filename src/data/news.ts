@@ -27,13 +27,13 @@ export const newsData: News[] = [
   {
     date: "June 2024",
     title: "",
-    description: "I gave a talk at the Generative AI in Social Science Research Workshop in London School of Economics 📢",
+    description: "I gave a talk at the Generative AI in Social Science Research Workshop at the London School of Economics 📢",
     link: "https://blogs.lse.ac.uk/impactofsocialsciences/2024/09/20/how-is-generative-ai-changing-social-science/#:~:text=The%20Generative%20AI%20in%20Social,LSE's%20Research%20Impact%20Support%20Fund.",
   },
   {
     date: "June 2024",
     title: "",
-    description: "I gave an invited talk at the Experimental Psychology Department 2024 in University College London 💭",
+    description: "I gave an invited talk in the Experimental Psychology Department at University College London 💭",
     link: "https://blogs.lse.ac.uk/impactofsocialsciences/2024/09/20/how-is-generative-ai-changing-social-science/#:~:text=The%20Generative%20AI%20in%20Social,LSE's%20Research%20Impact%20Support%20Fund.",
   },
   {
