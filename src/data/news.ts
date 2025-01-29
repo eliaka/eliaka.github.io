@@ -42,5 +42,5 @@ export const newsData: News[] = [
     title: "Summer School",
     description: "I attended the International Computer Vision Summer School in Sicily.",
     link: "https://iplab.dmi.unict.it/icvss2023/Home",
-  }
+  },
 ];
