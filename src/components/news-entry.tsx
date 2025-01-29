@@ -13,7 +13,7 @@ export function NewsEntry({ news }: { news: News }) {
             href={news.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="group inline-flex items-center gap-1 hover:text-zinc-600 transition-colors duration-300"
+            className="group inline-flex items-center gap-0 hover:text-zinc-600 transition-colors duration-300"
           >
             {news.title}
             <ArrowUpRight
