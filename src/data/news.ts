@@ -7,6 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   {
+    date: "May 2025",
+    title: "",
+    description: "Our paper is now out in Nature Human Behaviour 🎲",
+    link: "https://www.nature.com/articles/s42256-024-00963-y",
+  },
+  {
     date: "January 2025",
     title: "",
     description: "Our paper was on the cover of Nature Machine Intelligence 🎉",
