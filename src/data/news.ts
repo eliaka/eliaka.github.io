@@ -10,7 +10,7 @@ export const newsData: News[] = [
     date: "May 2025",
     title: "",
     description: "Our paper is now out in Nature Human Behaviour 🎲",
-    link: "https://www.nature.com/articles/s42256-024-00963-y",
+    link: "https://www.nature.com/articles/s41562-025-02172-y",
   },
   {
     date: "January 2025",
