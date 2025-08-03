@@ -21,7 +21,7 @@ export const newsData: News[] = [
   {
     date: "May 2025",
     title: "",
-    description: "Our paper is now out in Nature Human Behaviour 🎲",
+    description: "\"Playing repeated games with large language models\" is now out in Nature Human Behaviour 🎲",
     link: "https://www.nature.com/articles/s41562-025-02172-y",
   },
   {
