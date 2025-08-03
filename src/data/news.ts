@@ -7,6 +7,18 @@ export interface News {
 
 export const newsData: News[] = [
   {
+    date: "July 2025",
+    title: "",
+    description: "\"A foundation model to predict and capture human cognition\" is out in Nature 📚",
+    link: "https://openreview.net/pdf?id=jSxU7ZGe3B",
+  },
+  {
+    date: "June 2025",
+    title: "",
+    description: "Our paper has been accepted to ICML 2025 💻",
+    link: "https://openreview.net/pdf?id=jSxU7ZGe3B",
+  },
+  {
     date: "May 2025",
     title: "",
     description: "Our paper is now out in Nature Human Behaviour 🎲",
