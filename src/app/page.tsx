@@ -50,7 +50,7 @@ export default function Home() {
                         <h2 className="font-serif text-l mb-12 tracking-wide uppercase">
                           News
                         </h2>
-                        <div className="flex flex-col gap-1">
+                        <div className="flex flex-col gap-2">
                           {newsData.map((news, index) => (
                             <div key={index}>
                               <NewsEntry news={news} />
@@ -67,7 +67,7 @@ export default function Home() {
                         <h2 className="font-serif text-zinc-700 mb-12 tracking-wide uppercase">
                           Education
                         </h2>
-                        <div className="space-y-12">
+                        <div className="flex flex-col gap-2">
                           {educationData.map((education, index) => (
                             <EducationEntry key={index} education={education} />
                           ))}
@@ -82,7 +82,7 @@ export default function Home() {
                         <h2 className="font-serif text-l mb-12 tracking-wide uppercase">
                           Publications
                         </h2>
-                        <div className="space-y-12">
+                        <div className="flex flex-col gap-2">
                           {publicationData.map((publication, index) => (
                             <div key={index}>
                               <PublicationEntry publication={publication} />
@@ -102,7 +102,7 @@ export default function Home() {
                         <h2 className="font-serif text-md mb-12 tracking-wide uppercase">
                           Experience
                         </h2>
-                        <div className="space-y-12">
+                        <div className="flex flex-col gap-2">
                           {experienceData.map((experience, index) => (
                             <ExperienceEntry
                               key={index}
@@ -120,7 +120,7 @@ export default function Home() {
                         <h2 className="font-serif text-md mb-12 tracking-wide uppercase">
                           Portfolio
                         </h2>
-                        <div className="space-y-12">
+                        <div className="flex flex-col gap-2">
                           {portfolioData.map((portfolio, index) => (
                             <PortfolioEntry key={index} portfolio={portfolio} />
                           ))}
