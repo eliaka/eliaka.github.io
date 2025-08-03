@@ -47,11 +47,11 @@ export const publicationData: Publication[] = [
     imageUrl: "/visualcognition_mini.png"
   },
   {
-    year: "2024 (Under review)",
-    conference: "arXiv",
-    title: "Centaur: a foundation model of human cognition",
+    year: "2025",
+    conference: "Nature",
+    title: "A foundation model to predict and capture human cognition",
     authors: "Marcel Binz, Elif Akata, Matthias Bethge, Franziska Brändle, Fred Callaway, Julian Coda-Forno, Peter Dayan, Can Demircan, Maria K. Eckstein, Noémi Éltető et al.",
-    paperUrl: "https://arxiv.org/abs/2410.20268",
+    paperUrl: "https://www.nature.com/articles/s41586-025-09215-4",
     codeUrl: "https://github.com/marcelbinz/Llama-3.1-Centaur-70B/tree/main",
     imageUrl: "/centaur_mini.png"
   },
