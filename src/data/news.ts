@@ -10,7 +10,7 @@ export const newsData: News[] = [
     date: "July 2025",
     title: "",
     description: "\"A foundation model to predict and capture human cognition\" is out in Nature 📚",
-    link: "https://openreview.net/pdf?id=jSxU7ZGe3B",
+    link: "https://www.nature.com/articles/s41586-025-09215-4",
   },
   {
     date: "June 2025",
