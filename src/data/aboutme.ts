@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Helmholtz Munich & University of Tübingen",
   // Note that links work in the description
   description:
-    "I'm a <a href='https://hcai-munich.com/'>PhD student</a> working at the intersection of cognitive science and machine learning. My research focuses on understanding how LLMs behave as social, collaborative agents and how we can design systems that effectively interact, adapt, and communicate in dynamic environments.",
+    "I'm an <a href='https://imprs.is.mpg.de/'>IMPRS-IS</a> <a href='https://hcai-munich.com/'>PhD student</a> in cognitive science and machine learning. My research focuses on understanding how LLMs behave as social, collaborative agents and how we can design systems that effectively interact, adapt, and communicate in dynamic environments.",
   email: "elif.akata@helmholtz-munich.de",
   imageUrl:
     "/aboutme-img.jpg",
