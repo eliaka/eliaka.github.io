@@ -23,10 +23,10 @@ export const aboutMe: AboutMe = {
   institution: "Helmholtz Munich & University of Tübingen",
   // Note that links work in the description
   description:
-    `<p>I’m a final year PhD student in the Computer Science Department at the University of Tübingen (where I am also an <a href='https://imprs.is.mpg.de/'>IMPRS-IS</a> scholar) and the <a href='https://hcai-munich.com/'>Helmholtz Institute for Human-Centered AI</a>. I am fortunate to be advised by <a href='https://hcai-munich.com/eric.html/'>Eric Schulz</a> and <a href='https://bethgelab.org/'>Matthias Bethge</a>.</p>\n 
-    <p>My research lies in the intersection of cognitive science and machine learning. In particular, I’m interested in understanding how LLMs behave as social, collaborative agents and how we can design systems that effectively interact, adapt, and communicate in dynamic environments.</p>\n
-    <p>Prior to my PhD, I graduated from the University of Tübingen and Saarland University in Germany, with a MSc and BSc in Computer Science.</p>\n
-    <p>In my free time, I like drawing (recently got into designing logos and journal covers), playing tennis, and watching The Traitors (my favourite one is the UK version).</p>\n`,
+    `<p>I’m a final year PhD student in the Computer Science Department at the University of Tübingen (where I am also an <a href='https://imprs.is.mpg.de/'>IMPRS-IS</a> scholar) and the <a href='https://hcai-munich.com/'>Helmholtz Institute for Human-Centered AI</a>. I am fortunate to be advised by <a href='https://hcai-munich.com/eric.html/'>Eric Schulz</a> and <a href='https://bethgelab.org/'>Matthias Bethge</a>.</p>\n\n 
+    <p>My research lies in the intersection of cognitive science and machine learning. In particular, I’m interested in understanding how LLMs behave as social, collaborative agents and how we can design systems that effectively interact, adapt, and communicate in dynamic environments.</p>\n\n
+    <p>Prior to my PhD, I graduated from the University of Tübingen and Saarland University in Germany, with a MSc and BSc in Computer Science.</p>\n\n
+    <p>In my free time, I like drawing (recently got into designing logos and journal covers), playing tennis, and watching The Traitors (my favourite one is the UK version).</p>\n\n`,
   email: "elif.akata@helmholtz-munich.de",
   imageUrl:
     "/aboutme-img.jpg",
