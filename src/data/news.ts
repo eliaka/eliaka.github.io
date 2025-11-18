@@ -7,6 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   {
+    date: "November 2025",
+    title: "",
+    description: "I was in Berlin to give a talk at the Hertie School 🏛",
+    link: "https://www.hertie-school.org/en/datasciencelab/news/detail/content/playing-games-with-ai-what-behavioural-game-theory-reveals-about-large-language-models",
+  },
+  {
     date: "July 2025",
     title: "",
     description: "\"A foundation model to predict and capture human cognition\" is out in Nature 📚",
