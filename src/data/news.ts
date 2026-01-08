@@ -9,7 +9,7 @@ export const newsData: News[] = [
   {
     date: "January 2026",
     title: "",
-    description: "I've joined the University of Oxford, FLAIR as a visiting student.",
+    description: "I've joined the University of Oxford, FLAIR as a visiting researcher.",
     link: "https://foersterlab.com/",
   },
   {
