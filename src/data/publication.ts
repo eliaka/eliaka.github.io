@@ -64,4 +64,13 @@ export const publicationData: Publication[] = [
     codeUrl: "",
     imageUrl: "/cubeworld_mini.png"
   },
+  {
+    year: "2026",
+    conference: "AISTATS",
+    title: "In-Context Function Learning in Large Language Models",
+    authors: "Elif Akata, Konstantinos Voudouris, Vincent Fortuin, Eric Schulz",
+    paperUrl: "https://arxiv.org/abs/2602.11863",
+    codeUrl: "",
+    imageUrl: "/gp_mini.png"
+  },
 ];
