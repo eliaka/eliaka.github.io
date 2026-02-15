@@ -22,8 +22,8 @@ export const experienceData: Experience[] = [
     title: "Research Assistant",
     company: "Tübingen AI Center",
     description:
-      "Computational Neuroscience and ML lab",
-    advisor: "Matthias Bethge",
+      "Computational Neuroscience and ML Lab",
+    // advisor: "Matthias Bethge",
     // companyUrl: "https://deepmind.com",
   },
   {
@@ -31,8 +31,8 @@ export const experienceData: Experience[] = [
     title: "Research Assistant",
     company: "Max Planck Institute for Intelligent Systems",
     description:
-      "Haptic Intelligence department",
-    advisor: "Katherine Kuchenbecker",
+      "Haptic Intelligence",
+    // advisor: "Katherine Kuchenbecker",
     // companyUrl: "https://google.com",
   },
   {
@@ -40,8 +40,8 @@ export const experienceData: Experience[] = [
     title: "Student Research Assistant",
     company: "Max Planck Institute for Software Systems",
     description:
-      "Programming Analysis and Verification group",
-    advisor: "Eva Darulova",
+      "Programming Analysis and Verification",
+    // advisor: "Eva Darulova",
     // companyUrl: "https://google.com",
   },
 ];
