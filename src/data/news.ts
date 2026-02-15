@@ -7,6 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   {
+    date: "February 2026",
+    title: "",
+    description: "I gave a talk at the Human Information Processing Lab at Oxford.",
+    link: "https://humaninformationprocessing.com/",
+  },
+  {
     date: "January 2026",
     title: "",
     description: "\"In-Context Function Learning in LLMs\" is accepted to AISTATS 2026.",
