@@ -15,7 +15,7 @@ export const experienceData: Experience[] = [
     company: "University of Oxford",
     description:
       "Foerster Lab for AI Research (FLAIR)",
-    // companyUrl: "https://deepmind.com",
+    companyUrl: "https://foersterlab.com/",
   },
   {
     date: "Oct 2021—Sep 2022",
@@ -24,7 +24,7 @@ export const experienceData: Experience[] = [
     description:
       "Computational Neuroscience and ML Lab",
     // advisor: "Matthias Bethge",
-    // companyUrl: "https://deepmind.com",
+    companyUrl: "https://bethgelab.org/",
   },
   {
     date: "Sep 2020—Nov 2020",
@@ -33,15 +33,15 @@ export const experienceData: Experience[] = [
     description:
       "Haptic Intelligence",
     // advisor: "Katherine Kuchenbecker",
-    // companyUrl: "https://google.com",
+    companyUrl: "https://is.mpg.de/hi",
   },
   {
     date: "May 2017—Apr 2019",
     title: "Student Research Assistant",
     company: "Max Planck Institute for Software Systems",
     description:
-      "Programming Analysis and Verification",
+      "Programming Languages and Verification",
     // advisor: "Eva Darulova",
-    // companyUrl: "https://google.com",
+    companyUrl: "https://www.mpi-sws.org/research-areas/programming-languages-and-verification/",
   },
 ];
