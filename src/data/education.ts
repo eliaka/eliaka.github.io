@@ -13,7 +13,7 @@ export const educationData: Education[] = [
     year: "Oct 2022—Present",
     institution: "Helmholtz Munich & University of Tübingen",
     degree: "PhD in Machine Learning",
-    advisor: "Eric Schulz & Matthias Bethge",
+    // advisor: "Eric Schulz & Matthias Bethge",
   },
   {
     year: "Oct 2019—Feb 2022",
