@@ -154,12 +154,6 @@ export function ProfileSection({ aboutMe }: ProfileSectionProps) {
             </>
           )}
         </div>
-        {aboutMe.description && (
-        <div
-          className="mt-6 text-zinc-600 text-sm leading-relaxed tracking-wide [&>p]:mb-4"
-          dangerouslySetInnerHTML={{ __html: aboutMe.description }}
-        />
-        )}
       </div>
     </div>
   );
