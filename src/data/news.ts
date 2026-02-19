@@ -27,7 +27,7 @@ export const newsData: News[] = [
   {
     date: "November 2025",
     title: "",
-    description: "I was in Berlin to give a talk at the Hertie School.",
+    description: "I was in Berlin to give a guest lecture at the Hertie School.",
     link: "https://www.hertie-school.org/en/datasciencelab/news/detail/content/playing-games-with-ai-what-behavioural-game-theory-reveals-about-large-language-models",
   },
   {
