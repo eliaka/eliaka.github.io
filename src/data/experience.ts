@@ -28,7 +28,7 @@ export const experienceData: Experience[] = [
   },
   {
     date: "Sep 2020—Nov 2020",
-    title: "Research Assistant",
+    title: "Research Intern",
     company: "Max Planck Institute for Intelligent Systems",
     description:
       "Haptic Intelligence",
