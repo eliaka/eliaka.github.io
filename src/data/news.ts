@@ -7,6 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   {
+    date: "May 2026",
+    title: "",
+    description: "I was in Tangier, Morocco, to present our paper at AISTATS.",
+    link: "https://virtual.aistats.org/virtual/2026/poster/13708",
+  },
+  {
     date: "February 2026",
     title: "",
     description: "I gave a talk at the Human Information Processing Lab at Oxford.",
