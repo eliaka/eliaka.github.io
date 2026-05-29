@@ -9,7 +9,7 @@ export const newsData: News[] = [
   {
     date: "May 2026",
     title: "",
-    description: "I attended Machine+Behavior Conference in Berlin.",
+    description: "I attended the Machine+Behavior Conference in Berlin.",
     link: "https://machinebehavior.science/",
   },
   {
