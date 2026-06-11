@@ -14,7 +14,7 @@ export const experienceData: Experience[] = [
     title: "Visiting Researcher",
     company: "University of Oxford",
     description:
-      "Foerster Lab for AI Research (FLAIR)",
+      "FLAIR",
     companyUrl: "https://foersterlab.com/",
   },
   {
