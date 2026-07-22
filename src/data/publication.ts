@@ -42,7 +42,7 @@ export const publicationData: Publication[] = [
     conference: "Nature Machine Intelligence",
     title: "Visual cognition in multimodal large language models",
     authors: "Luca M Schulze Buschoff*, Elif Akata*, Matthias Bethge, Eric Schulz",
-    // paperUrl: "https://www.nature.com/articles/s42256-024-00963-y",
+    paperUrl: "https://www.nature.com/articles/s42256-024-00963-y",
     // codeUrl: "https://github.com/lsbuschoff/multimodal",
     // imageUrl: "/visualcognition_mini.png"
   },
@@ -51,7 +51,7 @@ export const publicationData: Publication[] = [
     conference: "Nature",
     title: "A foundation model to predict and capture human cognition",
     authors: "Marcel Binz, Elif Akata, Matthias Bethge, Franziska Brändle, Fred Callaway, Julian Coda-Forno, Peter Dayan, Can Demircan, Maria K Eckstein, Noémi Éltető et al.",
-    // paperUrl: "https://www.nature.com/articles/s41586-025-09215-4",
+    paperUrl: "https://www.nature.com/articles/s41586-025-09215-4",
     // codeUrl: "https://github.com/marcelbinz/Llama-3.1-Centaur-70B/tree/main",
     // imageUrl: "/centaur_mini.png"
   },
@@ -60,7 +60,7 @@ export const publicationData: Publication[] = [
     conference: "ICML",
     title: "Testing the Limits of Fine-Tuning for Improving Visual Cognition in Vision Language Models",
     authors: "Luca M Schulze Buschoff*, Konstantinos Voudouris*, Elif Akata, Matthias Bethge, Joshua B Tenenbaum, Eric Schulz",
-    // paperUrl: "https://openreview.net/forum?id=jSxU7ZGe3B",
+    paperUrl: "https://openreview.net/forum?id=jSxU7ZGe3B",
     // codeUrl: "",
     // imageUrl: "/cubeworld_mini.png"
   },
@@ -69,7 +69,7 @@ export const publicationData: Publication[] = [
     conference: "AISTATS",
     title: "In-Context Function Learning in Large Language Models",
     authors: "Elif Akata*, Konstantinos Voudouris*, Vincent Fortuin, Eric Schulz",
-    // paperUrl: "https://arxiv.org/abs/2602.11863",
+    paperUrl: "https://arxiv.org/abs/2602.11863",
     // codeUrl: "",
     // imageUrl: "/gp_mini.png"
   },
