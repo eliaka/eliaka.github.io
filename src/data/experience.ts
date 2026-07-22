@@ -30,7 +30,7 @@ export const experienceData: Experience[] = [
     title: "Research Assistant",
     company: "Tübingen AI Center",
     description:
-      "Computational Neuroscience & ML Lab",
+      "Computational Neuroscience & ML",
     // advisor: "Matthias Bethge",
     companyUrl: "https://bethgelab.org/",
   },
