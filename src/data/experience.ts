@@ -14,7 +14,7 @@ export const experienceData: Experience[] = [
     title: "Research Scientist Intern",
     company: "Meta FAIR",
     description:
-      "Multi-agent Multimodal Foundations",
+      "Multi-Agent Multimodal Foundations",
     companyUrl: "https://ai.meta.com/",
   },
   {
