@@ -57,7 +57,7 @@ export const newsData: News[] = [
   {
     date: "August 2025",
     title: "",
-    description: "Presented our poster at the CCN conference in Amsterdam.",
+    description: "Presented at the CCN conference in Amsterdam.",
     link: "https://2025.ccneuro.org/",
   },
   {
