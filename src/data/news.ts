@@ -7,6 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   {
+    date: "July 2026",
+    title: "",
+    description: "Joined Meta FAIR in New York as a Research Scientist Intern.",
+    link: "https://ai.meta.com/",
+  },
+  {
     date: "June 2026",
     title: "",
     description: "Gave an invited talk at the UCLA Trustworthy AI Lab.",
