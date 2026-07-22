@@ -79,10 +79,10 @@ export default function Home() {
                   return (
                     publicationData.length > 0 && (
                       <section key={sectionName}>
-                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase">
+                        <h2 className="font-serif text-l mb-8 tracking-wide uppercase">
                           Publications
                         </h2>
-                        <div className="flex flex-col gap-2">
+                        <div className="flex flex-col">
                           {publicationData.map((publication, index) => (
                             <div key={index}>
                               <PublicationEntry publication={publication} />
