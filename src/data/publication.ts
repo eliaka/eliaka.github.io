@@ -33,9 +33,9 @@ export const publicationData: Publication[] = [
     conference: "Nature Human Behaviour",
     title: "Playing repeated games with large language models",
     authors: "Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz",
-    paperUrl: "https://www.nature.com/articles/s41562-025-02172-y",
-    codeUrl: "https://github.com/eliaka/repeatedgames",
-    imageUrl: "/repeatedgames_mini.png"
+    // paperUrl: "https://www.nature.com/articles/s41562-025-02172-y",
+    // codeUrl: "https://github.com/eliaka/repeatedgames",
+    // imageUrl: "/repeatedgames_mini.png"
   },
   {
     year: "2025",
