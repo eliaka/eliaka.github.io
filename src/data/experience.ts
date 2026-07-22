@@ -12,9 +12,9 @@ export const experienceData: Experience[] = [
   {
     date: "July 2026—Present",
     title: "Research Scientist Intern",
-    company: "Meta",
+    company: "Meta FAIR",
     description:
-      "FAIR",
+      "Multi-agent Multimodal Foundations",
     companyUrl: "https://ai.meta.com/",
   },
   {
@@ -22,15 +22,15 @@ export const experienceData: Experience[] = [
     title: "Visiting Researcher",
     company: "University of Oxford",
     description:
-      "FLAIR",
-    companyUrl: "https://foersterlab.com/",
+      "British Open-Ended Learning & Discovery Lab",
+    companyUrl: "https://bold-lab.ai/",
   },
   {
     date: "Oct 2021—Sep 2022",
     title: "Research Assistant",
     company: "Tübingen AI Center",
     description:
-      "Bethge Lab",
+      "Computational Neuroscience & ML Lab",
     // advisor: "Matthias Bethge",
     companyUrl: "https://bethgelab.org/",
   },
@@ -48,7 +48,7 @@ export const experienceData: Experience[] = [
     title: "Student Research Assistant",
     company: "Max Planck Institute for Software Systems",
     description:
-      "Programming Languages and Verification",
+      "Programming Languages & Verification",
     // advisor: "Eva Darulova",
     companyUrl: "https://www.mpi-sws.org/research-areas/programming-languages-and-verification/",
   },
