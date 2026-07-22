@@ -27,7 +27,7 @@ export const newsData: News[] = [
   {
     date: "May 2026",
     title: "",
-    description: "I was in Tangier, Morocco, to present \"In-Context Function Learning in LLMs\" at AISTATS.",
+    description: "In Tangier, Morocco, to present \"In-Context Function Learning in LLMs\" at AISTATS.",
     link: "https://virtual.aistats.org/virtual/2026/poster/13708",
   },
   {
